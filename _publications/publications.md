@@ -12,6 +12,7 @@ Publications (in prep., submitted or in review):
 
 - **Duan, M.**, Neubauer, F., Robl, J., **Argentin, A.-L.**, Liebl, M. The Northward Expansion of the Tibetan Plateau: Topographic Evidence from the Turpan Basin, the Lowest Land Point in East Asia. **Submitted to** _Global and Planetary Change_.
 
+- Pitscheider, F., **Argentin, A.-L.**, Doolaeghe, D., Gianini, M., Repnik, L., Bizzi, S., Lane, S. N., Comiti, F. Modelling bedload transport at the network scale in a glacier-fed Alpine river system. **Submitted to** _Earth Surface Processes and Landforms_.
 
 
 Peer-reviewed publications:
@@ -118,3 +119,8 @@ Prasicek, G., Hölbling, D., **Argentin, A.-L.** & Friedl, B. Detection of Lands
 
 Invited Lab Seminars:
 ======
+
+2025 - University of Bordeaux
+2023 - University of Rennes, University of Bern
+2022 - University College Dublin, University of Nantes
+2021 - University of Michigan
