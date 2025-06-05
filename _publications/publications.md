@@ -121,6 +121,9 @@ Invited Lab Seminars:
 ======
 
 2025 - University of Bordeaux
+
 2023 - University of Rennes, University of Bern
+
 2022 - University College Dublin, University of Nantes
+
 2021 - University of Michigan
