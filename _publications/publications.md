@@ -27,6 +27,8 @@ Peer-reviewed publications:
 
 - **Argentin, A.-L.**, Prasicek, G., Robl, J., Hergarten, S., Hölbling, D., Abad, L., Dabiri, Z. (2023). The scaling of landslide-dammed lakes. _Global and Planetary Change_, 228, 104190. [DOI](https://doi.org/10.1016/j.gloplacha.2023.104190)
 
+- **Duan, M.**, Neubauer, F., Robl, J., Zhou, X., Liebl, M., **Argentin, A.-L.**, Dong, Y., Cheng, C., Zhang, B., Boekhout, F., Bedoya Gonzalez, D. (2023).  Northeastward expansion of the Tibetan Plateau: Topographic evidence from the North Qinling Mts.–Weihe Graben Coupling system, Central China. _Palaeogeography, Palaeoclimatology, Palaeoecology_, 623, 111612. [DOI](https://doi.org/10.1016/j.palaeo.2023.111612)
+
 ## 2022
 
 - Abad, L., Hölbling, D., Spiekermann, R., Prasicek, G., Dabiri, Z., **Argentin, A.-L.** (2022). Detecting landslide-dammed lakes on Sentinel-2 imagery and monitoring their spatio-temporal evolution following the Kaikōura earthquake in New Zealand. _Science of The Total Environment_, 820, 153335. [DOI](https://doi.org/10.1016/j.scitotenv.2022.153335)
