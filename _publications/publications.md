@@ -1,10 +1,17 @@
 ---
-layout: page
+layout: archive
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
-### Peer-reviewed publications
+Publications (in prep., submitted or in review):
+======
+
+
+
+Peer-reviewed publications:
+======
 
 1. **Argentin, A.-L., et al.** (2025). *Scale dependency in modeling nivo-glacial hydrological systems: the case of the Arolla basin, Switzerland*. _Hydrology and Earth System Sciences_, 29(6), 1725–1748. [DOI](https://doi.org/10.5194/hess-29-1725-2025)
 
@@ -14,3 +21,14 @@ permalink: /publications/
 
 *(Continue the list...)*
 
+
+Thesis, Reports:
+======
+
+
+Conferences:
+======
+
+
+Invited Lab Seminars:
+======
