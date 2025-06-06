@@ -27,18 +27,18 @@ Landscapes Live online seminars
 ======
 **Landscapes Live** is a weekly international online seminar series showcasing diverse topics in geomorphology. Affiliated to the EGU Geomorphology division, all talks are free, online and open to everyone.
 
-📺 [Watch past seminars on YouTube](https://www.youtube.com/@LandscapesLive)  
+📺 [Watch past seminars on YouTube](https://www.youtube.com/@landscapeslive1326/videos)  
 🌍 [Visit the Landscapes Live website](https://landscapeslive.org)
 
 
-Students
+Student supervision
 ======
 * PhD students
-  * Felix Pitscheider (2023-)
+  * Felix Pitscheider (2023 - )
 * Master students
-  * Romina Lavarello Schettini (2024-)
-  * Mattia Dalpiaz (2024-)
-  * Thomas Hauthaler (2020-2021)
+  * Romina Lavarello Schettini (2024 - )
+  * Mattia Dalpiaz (2024 - )
+  * Thomas Hauthaler (2020 - 2021)
 * Bachelor students
-  * Sofia Missero (2023-2024)
+  * Sofia Missero (2023 - 2024)
   
