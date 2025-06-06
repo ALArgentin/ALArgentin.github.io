@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-## CV
-
 📝 [Download my CV (PDF)](./assets/Argentin_CV_2025.pdf)
