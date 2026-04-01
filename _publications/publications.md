@@ -10,8 +10,6 @@ Publications (in prep., submitted or in review):
 
 - **Argentin, A.-L.**, Gianini, M., Schaefli, B., Horton, P., Chavez-Demoulin, V., Pitscheider, F., Repnik, L., Bizzi, S., Lane, S. N., Comiti, F. Downscaling daily discharge to sub-daily scales for alpine glacierized catchments under climate change. **Submitted to** _Water Resources Research_.
 
-
-
 - Pitscheider, F., **Argentin, A.-L.**, Doolaeghe, D., Gianini, M., Repnik, L., Bizzi, S., Lane, S. N., Comiti, F. Modelling bedload transport at the network scale in a glacier-fed Alpine river system. **Submitted to** _Earth Surface Processes and Landforms_.
 
 

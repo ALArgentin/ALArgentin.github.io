@@ -22,7 +22,6 @@ Student supervision
   * Felix Pitscheider (2023 - )
 * Master students
   * Romina Lavarello Schettini (2024 - 2025)
-[//]: # (  * Mattia Dalpiaz (2024 - ) )
   * Thomas Hauthaler (2020 - 2021)
 * Bachelor students
   * Sofia Missero (2023 - 2024)
