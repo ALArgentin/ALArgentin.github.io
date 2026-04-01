@@ -10,13 +10,17 @@ Publications (in prep., submitted or in review):
 
 - **Argentin, A.-L.**, Gianini, M., Schaefli, B., Horton, P., Chavez-Demoulin, V., Pitscheider, F., Repnik, L., Bizzi, S., Lane, S. N., Comiti, F. Downscaling daily discharge to sub-daily scales for alpine glacierized catchments under climate change. **Submitted to** _Water Resources Research_.
 
-- **Duan, M.**, Neubauer, F., Robl, J., **Argentin, A.-L.**, Liebl, M. The Northward Expansion of the Tibetan Plateau: Topographic Evidence from the Turpan Basin, the Lowest Land Point in East Asia. **Submitted to** _Global and Planetary Change_.
+
 
 - Pitscheider, F., **Argentin, A.-L.**, Doolaeghe, D., Gianini, M., Repnik, L., Bizzi, S., Lane, S. N., Comiti, F. Modelling bedload transport at the network scale in a glacier-fed Alpine river system. **Submitted to** _Earth Surface Processes and Landforms_.
 
 
 Peer-reviewed publications:
 ======
+
+## 2026
+
+- **Duan, M.**, Robl, J., Neubauer, F., Argentin, A.-L., Liebl, M., Boekhout, F. (2026). Northeastward growth of the Tibetan Plateau recorded in the drainage network of the Ordos Loess Plateau. _Global and Planetary Change_, 105428. [DOI](https://doi.org/10.1016/j.gloplacha.2026.105428)
 
 ## 2025
 
